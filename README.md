@@ -1,17 +1,17 @@
-# A FreeCAD manual
+# Un guide pour FreeCAD
 
 
 
 ## Introduction
 
-[FreeCAD](http://www.freecadweb.org) is a free, open-source parametric 3D modeling application. It is made primarily to model real-world objects, ranging from the small electronic components up to buildings and civil engineering projects, with a strong focus on 3D-printable objects. FreeCAD is free to download, use, distribute and modify, and its source code is open and published under the very permissive [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) license. The data you produce with FreeCAD is fully yours, and can be recovered without FreeCAD.
+[FreeCAD](https://www.freecadweb.org/?lang=fr) est une application de modélisation 3D paramétrique libre et gratuite.
 
-FreeCAD is also fundamentally a social project, as it is developed and maintained by a community of developers and users united by their passion for FreeCAD.
+FreeCAD est un modeleur 3D paramétrique libre et gratuit. Il est conçu pour modéliser toutes sortes d'objets, allant d'un petit composant électronique jusqu'à des bâtiments complets ou des projets de génie civil, avec une attention particulière pour l'impression 3D. FreeCAD peut être librement téléchargé, utilisé, redistribué et modifié, et son code source est ouvert et publié sous la licence très permissive [LGPL](https://fr.wikipedia.org/wiki/GNU_Lesser_General_Public_License) . Tout ce que vous créez avec FreeCAD vous appartient totalement, et peut être ouvert ultérieurement sans FreeCAD.
 
-This manual is an experiment at taking the opposite way from the [official FreeCAD documentation wiki](http://www.freecadweb.org/wiki). The wiki is written collaboratively by dozens of community members and, like most wikis, it contains huge amounts of information, but is very hard to access and navigate by newcomers. This makes it a precious resource for reference, but not a very practical tool to learn FreeCAD. This manual will walk you through the same information available on the wiki. However, we hope that the more step-by-step pace, based on examples, and the more unified tone given by a smaller number of authors, will make it more suitable for a first contact with FreeCAD, and that it will become a perfect companion for the wiki.
+FreeCAD est fondamentalement un projet social, dévelopé et maintenu par une communauté de programmeurs et d'utilisateurs unis par leur passion pour FreeCAD.
 
-This manual has been written for the current stable version of FreeCAD which is version **0.16**.
+Ce manuel est une expérience visant à prendre la direction opposée au [wiki de la documentation officielle de FreeCAD](http://www.freecadweb.org/wiki/index.php?title=Main_Page/fr). Ce wiki est écrit de manière collaborative par des dizaines de membres de la communauté et, comme la plupart des wikis, il contient une énorme quantité d'informations, mais il est, de ce fait, plus difficile d'accès pour les nouveaux arrivants. Cela en fait une source d'information exhaustive, mais également un outil peu pratique pour l'apprentissage de FreeCAD. Ce manuel va vous guider à travers la même source d'information que le wiki. Cependant, nous espérons que le rythme plus progressif, basé sur des exemples, et le style plus cohérent obtenu grâce à un nombre d'auteurs plus faible, en fera un guide plus adapté à un premier contact avec FreeCAD, et qu'il deviendra un complément idéal au wiki.
 
-All the contents of this manual are published under the [Creative Commons 4.0](http://creativecommons.org/licenses/by/4.0/) license, and can be freely used, downloaded, copied, and modified. The source files of this manual are hosted on [github](https://github.com/yorikvanhavre/FreeCAD-manual).
+Ce manuel a été écrit pour la version **0.16** de FreeCAD, qui est la version stable actuelle.
 
-This book has been written mostly by Yorik, but using a lot of information built by FreeCAD users, mostly from the FreeCAD wiki. The real author of this book is actually the whole FreeCAD community!
+L'ensemble du contenu de ce manuel est publié sous la licence [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr), et peut être librement utilisé, téléchargé, copié et modifié. Les fichiers source de ce manuel sont hébergés sur ce wiki, et sur le compte [FramaGit](https://framagit.org/freecad-france/FreeCAD-manual) utilisé pour écrire la première version de ce livre. Des versions HTML, PDF, MOBI and EPUB, plus faciles à lire, sont disponibles sur [GitBook](https://www.gitbook.com/book/wood-galaxy/un-guide-pour-freecad). Une version imprimée est en préparation.

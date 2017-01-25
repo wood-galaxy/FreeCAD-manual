@@ -1,1 +1,1 @@
-# Discovering FreeCAD
+# Découvrir FreeCAD
